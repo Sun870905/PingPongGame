@@ -6,7 +6,6 @@ import javax.swing.*;
 
 /**
  * This along with PongPanel implements the view of the simple Pong game.
- 
  */
 public class PongView extends JFrame {
     private PongModel model;
